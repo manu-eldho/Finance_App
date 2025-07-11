@@ -14,3 +14,6 @@ This is a Streamlit app for categorizing and visualizing personal finance data u
    ```bash
    git clone https://github.com/manu-eldho/finance-app.git
    cd finance-app
+
+   
+[Click here to launch the app](https://zavwnqngappb9g7xazhdnug.streamlit.app/)

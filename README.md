@@ -12,5 +12,5 @@ This is a Streamlit app for categorizing and visualizing personal finance data u
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/finance-app.git
+   git clone https://github.com/manu-eldho/finance-app.git
    cd finance-app
